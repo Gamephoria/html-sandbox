@@ -4,6 +4,7 @@
 body {
   color: #333333;
   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #A9F5F2 url('http://upload.wikimedia.org/wikipedia/fi/archive/a/af/20130616112740!Monstercat_Logo.png')no-repeat fixed center ;
 }
 
 a, a:active, a:visited {
@@ -97,8 +98,7 @@ header nav a, header nav a:visited {
 .gallery li img {
   border-radius: 2px;
   vertical-align: top;
-  height: 200px;
-  width: 200px;
+  
 }
 
 .gallery li img:hover {

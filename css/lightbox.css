@@ -1,7 +1,7 @@
 /* Preload images */
 body:after {
-  content: url(../img/close.png) url(../img/loading.gif) url(../img/prev.png) url(../img/next.png);
-  display: none;
+  content: url(../img/close.png) url(../img/Trollface.gif) url(../img/prev.png) url(../img/next.png);
+  display: none;background-color:black;
 }
 
 .lightboxOverlay {
@@ -79,7 +79,7 @@ body:after {
   width: 32px;
   height: 32px;
   margin: 0 auto;
-  background: url(../img/loading.gif) no-repeat;
+  background: url(../img/Troll-Face-GIF.gif) no-repeat;
 }
 
 .lb-nav {
